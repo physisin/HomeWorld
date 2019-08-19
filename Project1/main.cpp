@@ -5,12 +5,14 @@ int main()
 {
 int x=3;
 int y=4;
-int sum = x + y;
+int SumOflnteger = x + y;
+
+int y;
 
 
 
 
-	printf("%d +%d = %d", x, y, sum);
+	printf("%d +%d = %d", x, y, SumOflnteger);
 
 	return 0;
 
