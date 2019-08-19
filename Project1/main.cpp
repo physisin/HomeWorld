@@ -7,7 +7,7 @@ int x=3;
 int y=4;
 int SumOflnteger = x + y;
 
-int y;
+int x;
 
 
 
